@@ -18,7 +18,7 @@
     "require": {
         "php": ">=5.4.0",
         "topthink/framework": "5.0.*",
-        "kcloze/swoole-jobs":"4.*"
+        "kcloze/swoole-jobs":"4.0.2"
     },
     "autoload": {
         "psr-4": {
